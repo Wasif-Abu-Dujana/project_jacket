@@ -1,0 +1,125 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+header{
+    display: inline !important;
+    padding: 100px;
+	/* background-color: #fcdb00;  */
+}
+
+.menu ul{}
+.menu ul li{}
+.menu ul li:last-child{
+	margin-right: 0px;
+	padding-right: 0px;
+}
+.menu ul li a{
+	margin: 0 25px;
+	color: black;
+	font-size: 20px;
+	font-weight: 700;
+    text-align: right;
+} 
+
+/* banner start  */
+.ban{
+    padding: 100px 0;
+}
+.banner{}
+.winter{
+    
+    color: #363958;
+}
+.banner h1{
+    font-size: 54px;
+    font-weight: 700;
+    color: #FABE4C;
+    text-transform: uppercase;
+    letter-spacing: -3px;
+}
+.banner p{}
+.b_btn{
+    min-width: 150px !important;
+    border-radius: 5%;
+    padding: 12px;
+    background-color: #76C27E;
+    
+}
+.b_img{
+    max-height: 40px;
+}
+.b_btn p{
+    color: white;
+    float: right;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.product_holder{
+    position: relative;
+    display: block;
+}
+.mask{
+    margin-top: 29%;
+    margin-left: -50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+
+}
+/* banner ends  */
+
+/* woman jacket start  */
+
+.wrapper{
+    padding: 100px 0;
+}
+.w_jacket{
+    font-size: 45px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #363958;
+}
+
+.radius{
+    border-radius: 10%;
+}
+.card_jacket{}
+.card_jacket h5{
+    font-size: 30px;
+    font-weight: bold;
+    color: #363958;
+}
+.card_jacket p{}
+.dollar{
+    font-size: 40px !important;
+    color:#FABE4C !important;
+}
+
+
+.c_btn{
+    float: right !important;
+}
+/* woman jacket ends  */
+/* men jacket start  */
+/* men jacket ends  */
+
+/* footer start  */
+.footerr{
+    padding: 100px 0;
+}
+.wrapperx{
+    margin-bottom: 0px;
+}
+.f_img{
+    padding: 20px;
+}
+.f_h{
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #363958;
+}
+/* footer ends  */
